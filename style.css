@@ -1,0 +1,15 @@
+h1 {
+    color: #a52a2a;
+}
+
+.asdf{
+    background-color: #ff0000;
+    display:flex;
+    justify-content: space-between ;
+}
+
+.qwertyuiop{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+}
